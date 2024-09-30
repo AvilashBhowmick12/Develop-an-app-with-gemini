@@ -64,7 +64,7 @@ If you’re invited to join a study, you may try out a new product or tell us wh
 ## Output Page after successful Deployment !!
 
 This Page is after the successful deployment at local host 500 :
-![image](./img/Screenshot 2024-09-30 221610.png)
+![image](./img/Screenshot-2024-09-30-221610.png)
 
 - This is after navigating to the exact part 'inventory' to check the productid along with product number :
-![image](./img/Screenshot 2024-09-30 221829-inventory.png) and ![image](./img/Screenshot 2024-09-30 221917-inventory-page02.png)
+![image](./img/Screenshot-2024-09-30-221829-inventory.png) and ![image](./img/Screenshot-2024-09-30-221917-inventory-page02.png)
